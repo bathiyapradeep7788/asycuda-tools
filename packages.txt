@@ -1,0 +1,5 @@
+libreoffice-calc
+fonts-liberation
+fonts-crosextra-carlito
+fonts-crosextra-caladea
+fonts-dejavu-core

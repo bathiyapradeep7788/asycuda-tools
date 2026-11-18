@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+secrets_PRIVATE.toml
+__pycache__/
+*.pyc
+/tmp/
+
+asycuda-tools/
+setup.txt
